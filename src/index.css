@@ -4,21 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-
-body{
-   font-family: 'Roboto', sans-serif;
-}
-
-input{
-width: fit-content;
-height: 2rem;
-
-   background: transparent;
-   margin-top: 1rem;
-   margin-right: 1rem;
-   color: black;
-   
-   border-bottom:1px solid ;
-   padding:4px;
-  
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #ffedd5;
 }
