@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const AddEmployee = () => {
+const RegisterEmployee = () => {
 	const [formData, setFormData] = useState({
 		name: '',
 		phone: '',
@@ -158,4 +158,4 @@ const AddEmployee = () => {
 	)
 }
 
-export default AddEmployee
+export default RegisterEmployee
